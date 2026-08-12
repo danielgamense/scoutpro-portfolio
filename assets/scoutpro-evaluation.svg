@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="650" viewBox="0 0 1200 650" role="img" aria-labelledby="title desc">
+  <title id="title">Prancheta de avaliação ScoutPro</title>
+  <desc id="desc">Visualização conceitual de atributos técnicos, físicos e mentais em escala de zero a dez.</desc>
+  <rect width="1200" height="650" rx="24" fill="#1F3335"/>
+  <text x="55" y="72" fill="#84C225" font-family="Arial" font-size="28" font-weight="700">ScoutPro</text>
+  <text x="55" y="116" fill="#eaf2ed" font-family="Arial" font-size="30" font-weight="700">Prancheta de avaliação</text>
+  <text x="55" y="148" fill="#b7c9bf" font-family="Arial" font-size="16">Atributos de 0 a 10, combinados com dados e contexto de carreira</text>
+  <g font-family="Arial">
+    <rect x="55" y="195" width="710" height="390" rx="18" fill="#294747" stroke="#41615e"/>
+    <text x="88" y="242" fill="#eaf2ed" font-size="21" font-weight="700">Avaliação por atributos</text>
+    <g font-size="16" fill="#dbe9e0">
+      <text x="88" y="294">Finalização</text><text x="88" y="354">Passe</text><text x="88" y="414">Agilidade</text><text x="88" y="474">Força</text><text x="88" y="534">Concentração</text>
+    </g>
+    <g fill="#41615e"><rect x="245" y="280" width="410" height="15" rx="7"/><rect x="245" y="340" width="410" height="15" rx="7"/><rect x="245" y="400" width="410" height="15" rx="7"/><rect x="245" y="460" width="410" height="15" rx="7"/><rect x="245" y="520" width="410" height="15" rx="7"/></g>
+    <g fill="#84C225"><rect x="245" y="280" width="369" height="15" rx="7"/><rect x="245" y="340" width="328" height="15" rx="7"/><rect x="245" y="400" width="287" height="15" rx="7"/><rect x="245" y="460" width="308" height="15" rx="7"/><rect x="245" y="520" width="348" height="15" rx="7"/></g>
+    <g fill="#eaf2ed" font-size="16" font-weight="700"><text x="680" y="294">9,0</text><text x="680" y="354">8,0</text><text x="680" y="414">7,0</text><text x="680" y="474">7,5</text><text x="680" y="534">8,5</text></g>
+    <rect x="805" y="195" width="340" height="390" rx="18" fill="#f4f7f5"/>
+    <text x="845" y="242" fill="#647271" font-size="16">Rating contextual</text><text x="845" y="342" fill="#1F3335" font-size="100" font-weight="700">78</text><text x="1010" y="339" fill="#84C225" font-size="18" font-weight="700">/100</text>
+    <line x1="845" y1="385" x2="1105" y2="385" stroke="#d9e2dc"/><text x="845" y="430" fill="#1F3335" font-size="16" font-weight="700">Componentes</text><text x="845" y="466" fill="#647271" font-size="15">Base da divisão</text><text x="1075" y="466" fill="#1F3335" font-size="15" font-weight="700">42</text><text x="845" y="500" fill="#647271" font-size="15">Performance atual</text><text x="1075" y="500" fill="#1F3335" font-size="15" font-weight="700">24</text><text x="845" y="534" fill="#647271" font-size="15">Ajustes e contexto</text><text x="1075" y="534" fill="#1F3335" font-size="15" font-weight="700">12</text>
+  </g>
+</svg>

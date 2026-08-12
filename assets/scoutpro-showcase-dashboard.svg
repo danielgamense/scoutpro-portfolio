@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="650" viewBox="0 0 1200 650" role="img" aria-labelledby="title desc">
+  <title id="title">Dashboard ilustrativo do ScoutPro</title>
+  <desc id="desc">Tela fictícia inspirada no dashboard do ScoutPro, sem dados reais de atletas ou usuários.</desc>
+  <rect width="1200" height="650" fill="#f7f9f8"/>
+  <rect width="1200" height="86" fill="#173b3b"/>
+  <circle cx="46" cy="43" r="24" fill="#84c225"/><text x="35" y="51" fill="#173b3b" font-family="Arial" font-size="22" font-weight="700">S</text>
+  <text x="84" y="38" fill="#ffffff" font-family="Arial" font-size="21" font-weight="700">ScoutPro</text><text x="84" y="61" fill="#b9d52d" font-family="Arial" font-size="13">Sistema de análise técnica especializada</text>
+  <g fill="#e8f1ed" font-family="Arial" font-size="15"><text x="535" y="48">Início</text><text x="620" y="48">Lista preferencial</text><text x="762" y="48">Destaques</text><text x="855" y="48">Base de dados</text><text x="1002" y="48">Análise</text></g>
+  <circle cx="1155" cy="43" r="20" fill="#dfeee0"/><text x="1143" y="49" fill="#173b3b" font-family="Arial" font-size="13" font-weight="700">AP</text>
+  <text x="54" y="142" fill="#173b3b" font-family="Arial" font-size="28" font-weight="700">Dashboard Analítico</text><text x="54" y="171" fill="#6b7d78" font-family="Arial" font-size="15">Uma visão geral para acompanhar sua base de atletas</text>
+  <g font-family="Arial">
+    <rect x="54" y="210" width="260" height="112" rx="14" fill="#eef5ff" stroke="#dce6ef"/><text x="78" y="244" fill="#6b7d78" font-size="14">Atletas na base</text><text x="78" y="289" fill="#173b3b" font-size="38" font-weight="700">128</text>
+    <rect x="337" y="210" width="260" height="112" rx="14" fill="#f2f8e9" stroke="#dce6ef"/><text x="361" y="244" fill="#6b7d78" font-size="14">Lista preferencial</text><text x="361" y="289" fill="#173b3b" font-size="38" font-weight="700">24</text>
+    <rect x="620" y="210" width="260" height="112" rx="14" fill="#f7f0ff" stroke="#dce6ef"/><text x="644" y="244" fill="#6b7d78" font-size="14">Ranking</text><text x="644" y="289" fill="#173b3b" font-size="34" font-weight="700">Automático</text>
+    <rect x="903" y="210" width="243" height="112" rx="14" fill="#fff5ec" stroke="#dce6ef"/><text x="927" y="244" fill="#6b7d78" font-size="14">Sistema editável</text><text x="927" y="289" fill="#173b3b" font-size="38" font-weight="700">100%</text>
+  </g>
+  <text x="54" y="380" fill="#173b3b" font-family="Arial" font-size="23" font-weight="700">Atletas em destaque</text>
+  <g font-family="Arial">
+    <rect x="54" y="410" width="340" height="175" rx="14" fill="#ffffff" stroke="#dce6ef"/><circle cx="105" cy="462" r="32" fill="#dcefd0"/><text x="84" y="469" fill="#173b3b" font-size="18" font-weight="700">AE</text><text x="157" y="451" fill="#173b3b" font-size="19" font-weight="700">Atleta Exemplo</text><text x="157" y="476" fill="#6b7d78" font-size="14">ATA · Clube Modelo</text><text x="77" y="548" fill="#6b7d78" font-size="14">Pontuação contextual</text><text x="77" y="575" fill="#84c225" font-size="27" font-weight="700">78 / 100</text>
+    <rect x="430" y="410" width="340" height="175" rx="14" fill="#ffffff" stroke="#dce6ef"/><circle cx="481" cy="462" r="32" fill="#dcefd0"/><text x="460" y="469" fill="#173b3b" font-size="18" font-weight="700">JP</text><text x="533" y="451" fill="#173b3b" font-size="19" font-weight="700">Jogador Projeto</text><text x="533" y="476" fill="#6b7d78" font-size="14">MC · Clube Modelo</text><text x="453" y="548" fill="#6b7d78" font-size="14">Pontuação contextual</text><text x="453" y="575" fill="#84c225" font-size="27" font-weight="700">72 / 100</text>
+    <rect x="806" y="410" width="340" height="175" rx="14" fill="#173b3b"/><text x="838" y="451" fill="#ffffff" font-size="19" font-weight="700">Contexto da base</text><text x="838" y="491" fill="#b9d52d" font-size="25" font-weight="700">Dados + avaliação</text><text x="838" y="524" fill="#d3e2db" font-size="14">Posição, divisão, idade e momento</text><text x="838" y="552" fill="#d3e2db" font-size="14">organizados para apoiar decisões.</text>
+  </g>
+</svg>

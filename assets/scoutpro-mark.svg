@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="130" height="130" viewBox="0 0 130 130" role="img" aria-labelledby="title desc">
+  <title id="title">Marca ScoutPro</title>
+  <desc id="desc">Marca visual conceitual da plataforma ScoutPro.</desc>
+  <rect width="130" height="130" rx="26" fill="#1F3335"/>
+  <path d="M28 86V44h12v30h18V44h12v42H28Z" fill="#84C225"/>
+  <path d="M82 44h20v12H94v30H82V44Z" fill="#F5F7F4"/>
+  <circle cx="88" cy="88" r="13" fill="#84C225"/>
+  <path d="m82 88 5 5 9-11" fill="none" stroke="#1F3335" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
