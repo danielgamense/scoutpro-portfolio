@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Cards demonstrativos do ScoutPro</title>
+  <desc id="desc">Cards autorais de futebol com raridades elite, lendário e diamante. Os nomes são referências conceituais e os dados são ilustrativos.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07151c"/><stop offset=".55" stop-color="#173b3b"/><stop offset="1" stop-color="#0a1018"/></linearGradient>
+    <linearGradient id="silver" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#eef7ff"/><stop offset=".45" stop-color="#8ca4bb"/><stop offset=".7" stop-color="#f8fbff"/><stop offset="1" stop-color="#536b82"/></linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff0a6"/><stop offset=".3" stop-color="#d59c24"/><stop offset=".55" stop-color="#fff5bb"/><stop offset="1" stop-color="#9a5b09"/></linearGradient>
+    <linearGradient id="diamond" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#d7ffff"/><stop offset=".3" stop-color="#6be5e7"/><stop offset=".55" stop-color="#f5ffff"/><stop offset="1" stop-color="#6c7dff"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="9" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <filter id="shadow"><feDropShadow dx="0" dy="16" stdDeviation="13" flood-color="#000" flood-opacity=".55"/></filter>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#8ce5d2" stroke-opacity=".08"/></pattern>
+  </defs>
+  <rect width="1200" height="720" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="720" rx="28" fill="url(#grid)"/>
+  <circle cx="150" cy="135" r="120" fill="#84c225" opacity=".1" filter="url(#glow)"/><circle cx="1050" cy="560" r="160" fill="#6be5e7" opacity=".09" filter="url(#glow)"/>
+  <text x="60" y="70" fill="#84c225" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="3">SCOUTPRO / PLAYER CARDS</text>
+  <text x="60" y="115" fill="#f4fbf8" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">Raridade visual para comunicar o nível do atleta</text>
+  <text x="60" y="145" fill="#b7c9bf" font-family="Arial, Helvetica, sans-serif" font-size="15">Demonstração conceitual, sem dados oficiais de avaliação.</text>
+  <g transform="translate(58 190)" filter="url(#shadow)" font-family="Arial, Helvetica, sans-serif">
+    <rect width="310" height="455" rx="24" fill="#14222d" stroke="url(#silver)" stroke-width="7"/>
+    <path d="M18 126 155 38l137 88v208L155 417 18 334Z" fill="#d8e6f3" opacity=".12"/>
+    <circle cx="155" cy="181" r="76" fill="#b4c6d7" opacity=".25" stroke="#eff8ff" stroke-width="3"/><text x="155" y="197" text-anchor="middle" fill="#eff8ff" font-size="52" font-weight="700">CR</text>
+    <text x="25" y="48" fill="#eff8ff" font-size="46" font-weight="700">88</text><text x="28" y="69" fill="#b9d7e5" font-size="13" font-weight="700">ELITE</text><text x="270" y="48" text-anchor="end" fill="#eff8ff" font-size="18" font-weight="700">ATA</text>
+    <text x="155" y="294" text-anchor="middle" fill="#ffffff" font-size="25" font-weight="700">Cristiano R.</text><text x="155" y="320" text-anchor="middle" fill="#b9d7e5" font-size="13">referência conceitual</text>
+    <text x="44" y="365" fill="#eaf5f1" font-size="14">FINALIZAÇÃO</text><text x="266" y="365" text-anchor="end" fill="#ffffff" font-size="16" font-weight="700">91</text><text x="44" y="392" fill="#eaf5f1" font-size="14">VELOCIDADE</text><text x="266" y="392" text-anchor="end" fill="#ffffff" font-size="16" font-weight="700">89</text><text x="44" y="419" fill="#eaf5f1" font-size="14">FORÇA</text><text x="266" y="419" text-anchor="end" fill="#ffffff" font-size="16" font-weight="700">86</text>
+    <text x="155" y="445" text-anchor="middle" fill="#b9d7e5" font-size="13">★★★★☆</text>
+  </g>
+  <g transform="translate(445 190)" filter="url(#shadow)" font-family="Arial, Helvetica, sans-serif">
+    <rect width="310" height="455" rx="24" fill="#30230d" stroke="url(#gold)" stroke-width="8"/>
+    <path d="M18 126 155 38l137 88v208L155 417 18 334Z" fill="#ffd965" opacity=".17"/><path d="M38 90 155 26 272 90" fill="none" stroke="#fff0a6" stroke-width="2" opacity=".6"/>
+    <circle cx="155" cy="181" r="78" fill="#e4ac38" opacity=".3" stroke="#fff0a6" stroke-width="4"/><text x="155" y="197" text-anchor="middle" fill="#fff4bf" font-size="52" font-weight="700">RG</text>
+    <text x="25" y="48" fill="#fff4bf" font-size="46" font-weight="700">94</text><text x="28" y="69" fill="#ffe28b" font-size="13" font-weight="700">LENDÁRIO</text><text x="270" y="48" text-anchor="end" fill="#fff4bf" font-size="18" font-weight="700">MA</text>
+    <text x="155" y="294" text-anchor="middle" fill="#fff9dc" font-size="25" font-weight="700">Ronaldinho G.</text><text x="155" y="320" text-anchor="middle" fill="#ffe28b" font-size="13">referência conceitual</text>
+    <text x="44" y="365" fill="#fff5d0" font-size="14">DRIBLE</text><text x="266" y="365" text-anchor="end" fill="#fff9dc" font-size="16" font-weight="700">97</text><text x="44" y="392" fill="#fff5d0" font-size="14">TÉCNICA</text><text x="266" y="392" text-anchor="end" fill="#fff9dc" font-size="16" font-weight="700">96</text><text x="44" y="419" fill="#fff5d0" font-size="14">VISÃO</text><text x="266" y="419" text-anchor="end" fill="#fff9dc" font-size="16" font-weight="700">94</text>
+    <text x="155" y="445" text-anchor="middle" fill="#ffe28b" font-size="13">★★★★★</text>
+  </g>
+  <g transform="translate(832 190)" filter="url(#shadow)" font-family="Arial, Helvetica, sans-serif">
+    <rect width="310" height="455" rx="24" fill="#111b35" stroke="url(#diamond)" stroke-width="9"/>
+    <path d="M18 126 155 38l137 88v208L155 417 18 334Z" fill="#63e7eb" opacity=".15"/><path d="m42 113 52-52 62 31 62-31 52 52-52 55 18 104-80 48-80-48 18-104Z" fill="none" stroke="#d7ffff" stroke-width="2" opacity=".5"/>
+    <circle cx="155" cy="181" r="80" fill="#72e9ec" opacity=".23" stroke="#d7ffff" stroke-width="4"/><text x="155" y="197" text-anchor="middle" fill="#efffff" font-size="52" font-weight="700">P</text>
+    <text x="25" y="48" fill="#efffff" font-size="46" font-weight="700">99</text><text x="28" y="69" fill="#b7ffff" font-size="13" font-weight="700">DIAMANTE</text><text x="270" y="48" text-anchor="end" fill="#efffff" font-size="18" font-weight="700">ATA</text>
+    <text x="155" y="294" text-anchor="middle" fill="#ffffff" font-size="25" font-weight="700">Pelé</text><text x="155" y="320" text-anchor="middle" fill="#b7ffff" font-size="13">referência conceitual</text>
+    <text x="44" y="365" fill="#e9ffff" font-size="14">FINALIZAÇÃO</text><text x="266" y="365" text-anchor="end" fill="#ffffff" font-size="16" font-weight="700">99</text><text x="44" y="392" fill="#e9ffff" font-size="14">TÉCNICA</text><text x="266" y="392" text-anchor="end" fill="#ffffff" font-size="16" font-weight="700">98</text><text x="44" y="419" fill="#e9ffff" font-size="14">DECISÕES</text><text x="266" y="419" text-anchor="end" fill="#ffffff" font-size="16" font-weight="700">97</text>
+    <text x="155" y="445" text-anchor="middle" fill="#b7ffff" font-size="13">★★★★★</text>
+  </g>
+</svg>

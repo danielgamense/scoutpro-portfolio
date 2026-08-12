@@ -10,6 +10,10 @@
 
 ![Visualização ilustrativa do dashboard do ScoutPro](assets/scoutpro-showcase-dashboard.svg)
 
+<p align="justify">O ScoutPro também transforma a análise em uma experiência visual de cards. As categorias Elite, Lendário e Diamante são demonstrativas e usam uma linguagem autoral inspirada nos games, sem reproduzir logos, símbolos ou identidades de plataformas comerciais.</p>
+
+![Cards demonstrativos de raridade do ScoutPro](assets/scoutpro-card-showcase.svg)
+
 <p align="justify">O projeto aqui apresentado é referente ao **ScoutPro**, uma plataforma em desenvolvimento para análise, avaliação e acompanhamento de atletas de futebol.</p>
 
 <p align="justify">Criado inicialmente a partir de uma necessidade esportiva de um clube, o sistema está sendo estruturado para evoluir para um serviço acessível a clubes, analistas, profissionais do futebol, empresários e demais usuários que precisam organizar informações e tomar decisões com mais contexto.</p>
@@ -21,6 +25,12 @@
 <p align="justify">Cada atleta pode ser avaliado em uma escala de **0 a 10** em diferentes dimensões, como atributos técnicos, físicos, mentais e específicos da posição. Finalização, passe, agilidade, força, impulsão, concentração e outras características ajudam a formar uma visão ampla do jogador.</p>
 
 <p align="justify">O rating final não depende apenas de uma nota isolada. Ele considera posição, idade, divisão, clube, nível competitivo, estatísticas, minutagem, conquistas, histórico, momento atual, tendência de desempenho e estágio da carreira. Assim, a avaliação procura respeitar o contexto real do atleta, distinguindo potencial, experiência, produção atual e declínio físico.</p>
+
+<p align="justify">A plataforma separa o rating global do rating contextual. O primeiro representa uma referência ampla de nível. O segundo considera a realidade do usuário, como clube, divisão, competição e objetivo profissional. Por isso, o mesmo atleta pode receber classificações e estrelas diferentes em ambientes distintos.</p>
+
+![Evolução contextual do rating do ScoutPro](assets/scoutpro-context-evolution.svg)
+
+<p align="justify">Nesta demonstração, o atleta mantém a mesma referência global, mas sua adequação muda quando o nível competitivo aumenta. O card não indica necessariamente que o jogador piorou. Ele mostra como o sistema interpreta a distância entre o atleta e o contexto de trabalho.</p>
 
 ![Visualização ilustrativa do perfil de atleta](assets/scoutpro-showcase-profile.svg)
 
